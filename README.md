@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Oleksandr Sotnichenko
+- 👀 I’m interested in Automation QA
+- 🌱 I’m currently learning  Automation Testing
+- 📫 How to reach me: alex.worksot@gmail.com
