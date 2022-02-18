@@ -27,16 +27,6 @@
 ### Visualization of test results & Test managment
 ![Allure Report](https://github.com/oleksandrso/attachments/blob/main/img/Allure_Report.png "Allure Report— позволяет представить данные о запуске тестов в виде простого и удобного HTML-отчета") ![Allure TestOps](https://github.com/oleksandrso/attachments/blob/main/img/Allure_EE.png "Allure TestOps— это платформа управления качеством программного обеспечения, объединяющая автоматическое и ручное тестирование, которая позволяет управлять всем, что связано с тестированием, в одном месте") ![Jira](https://github.com/oleksandrso/attachments/blob/main/img/Jira.png "Jira— коммерческая система отслеживания ошибок, предназначена для организации взаимодействия с пользователями, также используется для управления проектами")![Telegram](https://github.com/oleksandrso/attachments/blob/main/img/Telegram.png "Telegram— специальные аккаунты в Telegram, созданные для того, чтобы автоматически обрабатывать и отправлять сообщения")
 
-## Something Task on 2022 year:
-- [x] ~~learn English~~
-- [ ] make new project
-- [ ] Create new self-help course
-___
-> ### Some feedback about me
-  > - >Feedback 1
-  > - >Feedback 2
-  > - >Feedback 3
-
 ___
 
 ## Some code for example:
@@ -53,3 +43,13 @@ ___
     }
 ```
 
+
+## Something Task on 2022 year:
+- [x] ~~learn English~~
+- [ ] make new project
+- [ ] Create new self-help course
+___
+> ### Some feedback about me
+  > - >Feedback 1
+  > - >Feedback 2
+  > - >Feedback 3
