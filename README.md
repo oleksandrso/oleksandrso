@@ -1,7 +1,8 @@
 # Oleksandr Sotnichenko
 ### _Glad to see you! On my Page :house_with_garden: you can find main information about me
 ### My Contacts:
-[![Telegram](https://github.com/oleksandrso/attachments/blob/main/img/telegram%20contact.png)](https://t.me/oleksandrso "oleksandrso") [![Email](https://github.com/oleksandrso/attachments/blob/main/img/email.png](alex.worksot@gmail.com "alex.worksot@gmail.com") [![Instagram](https://github.com/oleksandrso/attachments/blob/main/img/instagram.png](https://www.instagram.com/alexandrsot/ "alexandrsot") [![YouTube](https://github.com/oleksandrso/attachments/blob/main/img/youtube.png](https://www.youtube.com/channel/UCJIE-9PfiwK0igG1vwZcvEg "YouTube")
+[![Telegram](https://github.com/oleksandrso/attachments/blob/main/img/telegram%20contact.png)](https://t.me/oleksandrso "oleksandrso")
+[![Email](https://github.com/oleksandrso/attachments/blob/main/img/email.png)](alex.worksot@gmail.com "alex.worksot@gmail.com") [![Instagram](https://github.com/oleksandrso/attachments/blob/main/img/instagram.png)](https://www.instagram.com/alexandrsot/ "alexandrsot") [![YouTube](https://github.com/oleksandrso/attachments/blob/main/img/youtube.png)](https://www.youtube.com/channel/UCJIE-9PfiwK0igG1vwZcvEg "YouTube")
 
 
 
