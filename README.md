@@ -11,7 +11,7 @@
 ## Full Stuck QA Egineer:
 
 -  Automation  Specialist :computer:
--  Manual Specialist :muscule:
+-  Manual Specialist :hand:
 -  Team lead :gun:
 -  Teacher & Mentor :mortar_board:
 
