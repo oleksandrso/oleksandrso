@@ -15,7 +15,8 @@ ___
 Development of autotests :
 - ![Intelij IDEA](https://github.com/oleksandrso/attachments/blob/main/img/Intelij_IDEA.png "IntelliJ IDEA— интегрированная среда разработки программного обеспечения для многих языков программирования, в частности Java, JavaScript, Python, разработанная компанией JetBrains")
 - ![Android Studio](https://github.com/oleksandrso/attachments/blob/main/img/android-studio.png "Android Studio- среда разработки программного обеспечения для  Андроид девайсов разработанная компанией JetBrains")
-- ![xCode]()
+- ![xCode](https://github.com/oleksandrso/attachments/blob/main/img/xcode.png "xCode-среда разработки программного обеспечения для Apple девайсов разработанная компанией Apple")
+
 - ![Java](https://github.com/oleksandrso/attachments/blob/main/img/Java.png "Java— строго типизированный объектно-ориентированный язык программирования общего назначения, разработанный компанией Sun Microsystems")
 - ![]Selenium](https://github.com/oleksandrso/attachments/blob/main/img/Selenium.png "Selenium— это инструмент для автоматизации действий веб-браузера. В большинстве случаев используется для тестирования Web-приложений, но этим не ограничивается)
 - ![Selenide](https://github.com/oleksandrso/attachments/blob/main/img/Selenide.png "Selenide— это фреймворк для автоматизированного тестирования веб-приложений на основе Selenium") 
