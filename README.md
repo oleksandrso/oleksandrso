@@ -49,7 +49,3 @@ ___
 - [ ] make new project
 - [ ] Create new self-help course
 ___
-> ### Some feedback about me
-  > - >Feedback 1
-  > - >Feedback 2
-  > - >Feedback 3
