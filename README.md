@@ -29,7 +29,7 @@
 
 ___
 ## Project for example:
-https://github.com/oleksandrso/templateOne/tree/master/ "ExampleCode"
+https://github.com/oleksandrso/templateOne/ "ExampleCode"
 
 ## Some code for example:
 ```JAVA
