@@ -29,7 +29,7 @@
 
 ___
 ## Project for example:
-https://github.com/oleksandrso/templateOne/ "ExampleCode"
+[Example Project Code here](https://github.com/oleksandrso/templateOne/tree/master/ "Example Code")
 
 ## Some code for example:
 ```JAVA
@@ -51,4 +51,3 @@ https://github.com/oleksandrso/templateOne/ "ExampleCode"
 - [ ] make new project
 - [ ] Create new self-help course
 ___
-
