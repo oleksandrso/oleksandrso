@@ -46,8 +46,8 @@ ___
 ```
 
 
-## Something Task on 2022 year:
-- [x] ~~learn English~~
-- [ ] make new project
-- [ ] Create new self-help course
+## Something Task on 2023 year:
+- ~~learn English~~
+- make new project
+- Create new self-help course
 ___
