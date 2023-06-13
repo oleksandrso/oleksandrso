@@ -37,7 +37,7 @@ ___
 ![](https://github.com/oleksandrso/templateOne/tree/master/extraResources/Diagrams.png)
 ![](https://github.com/oleksandrso/templateOne/tree/master/extraResources/TimeLine.png)
 # Jenkins job
-![](https://github.com/oleksandrso/templateOne/tree/master/extraResources/Jenkins.png)
+[![Jenkins](https://github.com/oleksandrso/templateOne/blob/master/extraResources/Jenkins.png)]
 # Selenoid 
 ![](https://github.com/oleksandrso/templateOne/tree/master/extraResources/selenoidManualBrowser.gif)
 
