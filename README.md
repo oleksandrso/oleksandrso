@@ -32,10 +32,10 @@ ___
 [Example Project Code here](https://github.com/oleksandrso/templateOne/tree/master/ "Example Code")
 
 #### Allure report with video / Images / logs / page source
-[![Allure report](https://github.com/oleksandrso/templateOne/tree/master/extraResources/VideoRecordSelenide.gif)]
-[![Allure report](https://github.com/oleksandrso/templateOne/tree/master/extraResources/attachments.png)]
+[![Allure report](https://github.com/oleksandrso/templateOne/blob/master/extraResources/VideoRecordSelenide.gif)]
+[![Allure report](https://github.com/oleksandrso/templateOne/blob/master/extraResources/attachments.png)]
 [![Allure report](https://github.com/oleksandrso/templateOne/blob/master/extraResources/Diagrams.png)]
-[![Allure report](https://github.com/oleksandrso/templateOne/tree/master/extraResources/TimeLine.png)]
+[![Allure report](https://github.com/oleksandrso/templateOne/blob/master/extraResources/TimeLine.png)]
 # Jenkins job
 [![Jenkins](https://github.com/oleksandrso/templateOne/blob/master/extraResources/Jenkins.png)]
 # Selenoid 
