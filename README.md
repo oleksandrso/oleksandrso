@@ -32,7 +32,7 @@ ___
 [Example Project Code here](https://github.com/oleksandrso/templateOne/tree/master/ "Example Code")
 
 #### Allure report with video / Images / logs / page source
-![](https://github.com/oleksandrso/templateOne/tree/master/extraResources)/VideoRecordSelenide.gif)
+![](https://github.com/oleksandrso/templateOne/tree/master/extraResources/VideoRecordSelenide.gif)
 ![](https://github.com/oleksandrso/templateOne/tree/master/extraResources/attachments.png)
 ![](https://github.com/oleksandrso/templateOne/tree/master/extraResources/Diagrams.png)
 ![](https://github.com/oleksandrso/templateOne/tree/master/extraResources/TimeLine.png)
