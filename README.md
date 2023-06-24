@@ -39,7 +39,9 @@ ___
 # Jenkins job
 ![Jenkins](https://github.com/oleksandrso/templateOne/blob/master/extraResources/Jenkins.png)
 # Selenoid 
-![Jenkins](https://github.com/oleksandrso/templateOne/blob/master/extraResources/selenoidManualBrowser.gif)
+![Selenoid](https://github.com/oleksandrso/templateOne/blob/master/extraResources/selenoidManualBrowser.gif)
+# Mobile Real device example 
+![Mobile example](https://github.com/oleksandrso/templateOne/blob/master/extraResources/mobileExample.gif)
 
 ### For run remote tests need fill remote.properties or to pass value:
 
